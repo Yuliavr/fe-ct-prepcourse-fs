@@ -4,7 +4,7 @@ function devolverPrimerElemento(array) {
    // Retornar el primer elemento del arreglo recibido por parámetro.
    // Tu código:
    return array[0];
-   // editado
+   
 }
 
 //console.log(devolverPrimerElemento([1,2,3,4]));
